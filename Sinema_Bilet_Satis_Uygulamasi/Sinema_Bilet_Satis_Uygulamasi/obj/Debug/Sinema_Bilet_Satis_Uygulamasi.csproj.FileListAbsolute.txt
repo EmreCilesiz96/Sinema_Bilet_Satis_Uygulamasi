@@ -1,0 +1,10 @@
+C:\Users\Alpha\Desktop\C# Yazılım Çalışmalarım\Sinema_Bilet_Satis_Uygulamasi\Sinema_Bilet_Satis_Uygulamasi\bin\Debug\Sinema_Bilet_Satis_Uygulamasi.exe.config
+C:\Users\Alpha\Desktop\C# Yazılım Çalışmalarım\Sinema_Bilet_Satis_Uygulamasi\Sinema_Bilet_Satis_Uygulamasi\bin\Debug\Sinema_Bilet_Satis_Uygulamasi.exe
+C:\Users\Alpha\Desktop\C# Yazılım Çalışmalarım\Sinema_Bilet_Satis_Uygulamasi\Sinema_Bilet_Satis_Uygulamasi\bin\Debug\Sinema_Bilet_Satis_Uygulamasi.pdb
+C:\Users\Alpha\Desktop\C# Yazılım Çalışmalarım\Sinema_Bilet_Satis_Uygulamasi\Sinema_Bilet_Satis_Uygulamasi\obj\Debug\Sinema_Bilet_Satis_Uygulamasi.csproj.AssemblyReference.cache
+C:\Users\Alpha\Desktop\C# Yazılım Çalışmalarım\Sinema_Bilet_Satis_Uygulamasi\Sinema_Bilet_Satis_Uygulamasi\obj\Debug\Sinema_Bilet_Satis_Uygulamasi.Form1.resources
+C:\Users\Alpha\Desktop\C# Yazılım Çalışmalarım\Sinema_Bilet_Satis_Uygulamasi\Sinema_Bilet_Satis_Uygulamasi\obj\Debug\Sinema_Bilet_Satis_Uygulamasi.Properties.Resources.resources
+C:\Users\Alpha\Desktop\C# Yazılım Çalışmalarım\Sinema_Bilet_Satis_Uygulamasi\Sinema_Bilet_Satis_Uygulamasi\obj\Debug\Sinema_Bilet_Satis_Uygulamasi.csproj.GenerateResource.cache
+C:\Users\Alpha\Desktop\C# Yazılım Çalışmalarım\Sinema_Bilet_Satis_Uygulamasi\Sinema_Bilet_Satis_Uygulamasi\obj\Debug\Sinema_Bilet_Satis_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Alpha\Desktop\C# Yazılım Çalışmalarım\Sinema_Bilet_Satis_Uygulamasi\Sinema_Bilet_Satis_Uygulamasi\obj\Debug\Sinema_Bilet_Satis_Uygulamasi.exe
+C:\Users\Alpha\Desktop\C# Yazılım Çalışmalarım\Sinema_Bilet_Satis_Uygulamasi\Sinema_Bilet_Satis_Uygulamasi\obj\Debug\Sinema_Bilet_Satis_Uygulamasi.pdb
